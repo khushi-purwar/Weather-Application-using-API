@@ -2,7 +2,7 @@
 
 ## Overview of Weather App
 
-> _A simple API enabled website build using HTML, CSS & JavaScript.
+> _A simple API enabled website build using HTML, CSS & JavaScript._
 
 ## Tech Stack
 
