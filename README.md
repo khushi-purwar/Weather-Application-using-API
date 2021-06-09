@@ -2,7 +2,7 @@
 
 ## Overview of Weather App
 
-It is a  Simple Weather Application made by using HTML, CSS & JavaScript.
+> _A simple API enabled website build using HTML, CSS & JavaScript.
 
 ## Tech Stack
 
